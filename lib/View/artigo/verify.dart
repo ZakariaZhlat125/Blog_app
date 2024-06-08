@@ -5,7 +5,7 @@ import 'package:app_blog/View/resources/strings_manager.dart';
 import 'package:app_blog/ViewModel/controller/auth_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
+//زكريا سمير زحلط
 class VerifyPage extends StatefulWidget {
   const VerifyPage({Key? key}) : super(key: key);
 
