@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/src/simple/get_controllers.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import '../../View/resources/style_manager.dart';
-
+//عابد جرجي بربر
 class NetworkController extends GetxController{
   final Connectivity _connectivity = Connectivity();
 
