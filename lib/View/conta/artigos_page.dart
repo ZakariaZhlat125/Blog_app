@@ -12,6 +12,8 @@ import '../resources/color_manager.dart';
 import '../resources/routes_manager.dart';
 import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
+
+//فاطمة محمد ديبو
 //ignore: must_be_immutable
 class ArtigosPage extends StatefulWidget {
   String idUsuario;
