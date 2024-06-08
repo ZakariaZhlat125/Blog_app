@@ -8,7 +8,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:mobx/mobx.dart';
 import '../../Model/models/Artigo.dart';
 part 'artigo_viewmodel.g.dart';
-
+//فاطمة محمد ديبو
 class ArtigoViewModel = ArtigoViewModelMobx with _$ArtigoViewModel;
 
 abstract class ArtigoViewModelMobx with Store{
