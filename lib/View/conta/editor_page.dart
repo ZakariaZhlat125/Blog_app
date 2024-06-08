@@ -10,6 +10,7 @@ import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
 import 'dart:io';
 
+//براءة رياض شيحا
 class EditorPage extends StatefulWidget {
   const EditorPage({Key? key}) : super(key: key);
 
