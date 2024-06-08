@@ -1,5 +1,5 @@
 import 'dart:math';
-
+//بتول يونس جديد
 sealed class GeradorId{
 
   static String gerarId(){
