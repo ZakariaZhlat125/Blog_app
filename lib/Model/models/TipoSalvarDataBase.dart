@@ -5,7 +5,7 @@ class TipoSalvarDataBase{
   TipoSalvarDataBase({this.tipo});
 
 }
-
+//براءة رياض شيحا
 sealed class TipoSalvar{
   static const String salvarDadosUsuario = 'salvarDadosUsuario';
   static const String salvarPrimeiraVezDadosUsuario = 'salvarPrimeiraVezDadosUsuario';
