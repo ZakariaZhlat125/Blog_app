@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import '../../../Model/models/Artigo.dart';
 import '../../resources/routes_manager.dart';
-
+//زكريا سمير زحلط
 class PopularesPage extends StatefulWidget {
   const PopularesPage({super.key});
 
