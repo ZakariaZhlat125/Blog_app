@@ -1,5 +1,5 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
-
+//فاطمة محمد ديبو
 part of 'artigo_viewmodel.dart';
 
 // **************************************************************************
