@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../resources/color_manager.dart';
 import '../resources/style_manager.dart';
-
+//بتول يونس جديد
 class LogoApp extends StatelessWidget {
   double fontSize;
   bool center;
