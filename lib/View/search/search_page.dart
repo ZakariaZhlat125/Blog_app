@@ -9,7 +9,7 @@ import '../../Model/models/Artigo.dart';
 import '../common/card_artigo.dart';
 import '../common/search_box.dart';
 import '../resources/routes_manager.dart';
-
+//زكريا سمير زحلط
 class SearchPage extends StatefulWidget {
   const SearchPage({Key? key}) : super(key: key);
 
