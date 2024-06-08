@@ -10,7 +10,7 @@ import '../models/Artigo.dart';
 import '../models/Frase.dart';
 import '../models/Usuario.dart';
 import '../repository/acessardados.dart';
-
+//زكريا سمير زحلط
 class AcessarDadosRepository implements AcessarDados{
 
   @override
