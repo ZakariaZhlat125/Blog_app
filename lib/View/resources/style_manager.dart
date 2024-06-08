@@ -2,7 +2,7 @@ import 'package:app_blog/View/resources/values_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'font_manager.dart';
-
+//عبير سهيل بلال
 TextStyle _getTextStyle(double fontSize, String fontFamily,Color color, FontWeight fontWeight){
   if(fontFamily == FontManager.alice){
     return GoogleFonts.alice().copyWith(
