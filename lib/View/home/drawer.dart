@@ -8,7 +8,7 @@ import 'package:app_blog/View/resources/values_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import '../../Model/models/Frase.dart';
-
+//روان محمد بركات
 class DrawerWidget extends StatelessWidget {
   Frase? frase;
   DrawerWidget({super.key, this.frase});
