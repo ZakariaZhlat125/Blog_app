@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import '../resources/color_manager.dart';
 import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
-
+//اية منذر برنبو
 class SeguirSeguindoPage extends StatefulWidget {
   String title;
   SeguirSeguindoPage({required this.title});
