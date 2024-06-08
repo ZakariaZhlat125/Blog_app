@@ -7,7 +7,7 @@ import 'package:mobx/mobx.dart';
 import '../../Model/models/Artigo.dart';
 import '../../Model/models/Usuario.dart';
 part 'ver_usuario_viewmodel.g.dart';
-
+//اية منذر برنبو
 class VerUsuarioViewModel = VerUsuarioViewModelMobx with _$VerUsuarioViewModel;
 
 abstract class VerUsuarioViewModelMobx with Store{
