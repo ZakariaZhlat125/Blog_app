@@ -3,7 +3,7 @@ import '../../Model/models/Artigo.dart';
 import '../resources/color_manager.dart';
 import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
-
+//بتول يونس جديد
 // ignore: must_be_immutable
 class CardArtigo extends StatelessWidget {
   Artigo artigo;
