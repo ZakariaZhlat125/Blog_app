@@ -6,7 +6,7 @@ import '../resources/color_manager.dart';
 import '../resources/strings_manager.dart';
 import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
-
+//زينب مثال شاهين
 class SettingsPage extends StatefulWidget {
   const SettingsPage({Key? key}) : super(key: key);
 
