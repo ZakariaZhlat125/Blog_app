@@ -1,5 +1,5 @@
 sealed class AppStrings{
-
+//عبير سهيل بلال
   static const String routeNotFound = 'Rota não encontrada';
   static const String appBlog = 'AppBlog';
   static const String sim = 'Sim';
