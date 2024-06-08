@@ -8,7 +8,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:mobx/mobx.dart';
 import '../../Model/models/Artigo.dart';
 part 'salvo_viewmodel.g.dart';
-
+//بتول يونس جديد
 class SalvoViewModel = SalvoViewModelMobx with _$SalvoViewModel;
 
 abstract class SalvoViewModelMobx with Store{
