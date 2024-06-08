@@ -9,7 +9,7 @@ import 'package:mobx/mobx.dart';
 import '../../Model/models/Artigo.dart';
 import '../../Model/models/Usuario.dart';
 part 'conta_viewmodel.g.dart';
-
+//ريان مصطفى قربة
 class ContaViewModel = ContaViewModelMobx with _$ContaViewModel;
 
 abstract class ContaViewModelMobx with Store{
