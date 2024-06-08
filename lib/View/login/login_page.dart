@@ -4,7 +4,7 @@ import 'package:app_blog/View/resources/style_manager.dart';
 import 'package:flutter/material.dart';
 import '../resources/routes_manager.dart';
 import '../resources/values_manager.dart';
-
+//براءة رياض شيحا
 class LoginPage extends StatefulWidget {
   String? mensagem;
   LoginPage({super.key, this.mensagem = AppStrings.naoLogado});
