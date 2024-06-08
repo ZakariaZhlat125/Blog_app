@@ -2,7 +2,7 @@ import 'package:app_blog/View/resources/style_manager.dart';
 import 'package:app_blog/View/resources/values_manager.dart';
 import 'package:flutter/material.dart';
 import '../resources/color_manager.dart';
-
+//بتول يونس جديد
 //ignore: must_be_immutable
 class ErrorWidgetMy extends StatelessWidget {
   FlutterErrorDetails details;
