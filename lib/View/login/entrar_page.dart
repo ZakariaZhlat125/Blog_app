@@ -8,7 +8,7 @@ import '../resources/color_manager.dart';
 import '../resources/routes_manager.dart';
 import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
-
+//ريان مصطفى قربة
 class EntrarPage extends StatefulWidget {
   const EntrarPage({super.key});
 
