@@ -1,5 +1,5 @@
 class Frase{
-
+//ريان مصطفى قربة
   String? _frase;
   String? _autor;
 
