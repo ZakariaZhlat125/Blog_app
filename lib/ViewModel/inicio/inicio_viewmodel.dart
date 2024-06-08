@@ -7,7 +7,7 @@ import 'package:mobx/mobx.dart';
 import '../../Model/models/Artigo.dart';
 import 'package:exists_in/exists_in.dart';
 part 'inicio_viewmodel.g.dart';
-
+//زكريا سمير زحلط
 class InicioViewModel = InicioViewModelMobx with _$InicioViewModel;
 
 abstract class InicioViewModelMobx with Store{
