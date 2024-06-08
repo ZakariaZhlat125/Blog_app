@@ -18,7 +18,7 @@ import '../resources/color_manager.dart';
 import '../resources/strings_manager.dart';
 import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
-
+//زكريا سمير زحلط
 class CriarArtigoPage extends StatefulWidget {
   const CriarArtigoPage({Key? key}) : super(key: key);
 
