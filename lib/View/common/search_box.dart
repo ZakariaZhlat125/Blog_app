@@ -3,7 +3,7 @@ import '../resources/color_manager.dart';
 import '../resources/strings_manager.dart';
 import '../resources/style_manager.dart';
 import '../resources/values_manager.dart';
-
+//بتول يونس جديد
 //ignore: must_be_immutable
 class SearchBox extends StatelessWidget {
   Function(String) function;
