@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//عابد جرجي بربر
 sealed class ColorManager {
 
   static const Color marrom = Color(0xff564439);
