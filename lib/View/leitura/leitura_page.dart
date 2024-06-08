@@ -7,7 +7,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import '../../Model/models/Artigo.dart';
 import '../resources/color_manager.dart';
-
+//زكريا سمير زحلط
 //ignore: must_be_imutable
 class LeituraPage extends StatefulWidget {
   Artigo artigo;
