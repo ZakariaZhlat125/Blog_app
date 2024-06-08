@@ -2,7 +2,7 @@ import 'package:app_blog/View/resources/color_manager.dart';
 import 'package:app_blog/View/resources/values_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
-
+//بتول يونس جديد
 class CustomLoader extends StatelessWidget {
   const CustomLoader({Key? key}) : super(key: key);
 
