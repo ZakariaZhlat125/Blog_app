@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import '../models/TipoSalvarDataBase.dart';
-
+//اية منذر برنبو
 abstract class DataBase{
   salvarDados(TipoSalvarDataBase tipoSalvarDataBase, BuildContext context, {dynamic args});
 }
