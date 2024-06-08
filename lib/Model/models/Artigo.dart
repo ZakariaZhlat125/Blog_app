@@ -9,7 +9,7 @@ class Artigo{
   String? _img;
   String? _topico;
 
-
+//ريان مصطفى قربة
   String get data => _data!;
 
   set data(String value) {
